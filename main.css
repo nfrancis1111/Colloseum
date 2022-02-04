@@ -1,0 +1,26 @@
+body{
+    background: darkblue;
+    color: yellow;
+    font-size: 20 px;
+    font-family: 'Courier New', Courier, monospace;
+}
+header, footer{
+    background: yellow;
+    color:darkblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img{
+    display: inline;
+}
+table{
+    background-color: white;
+    color: darkblue;
+    border-style:groove;
+
+}
+
+a{
+    color: yellow;
+}
